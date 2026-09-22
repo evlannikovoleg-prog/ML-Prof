@@ -1,0 +1,13 @@
+# Игнорируем системные папки блокнотов
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Игнорируем любые архивы
+*.zip
+**/*.zip
+
+# Игнорируем тяжелые папки с датасетами
+hw6/understanding_cloud_organization/test_images/
+hw6/understanding_cloud_organization/train_images/
+hw6/understanding_cloud_organization/
+hw6/kodak/
